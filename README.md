@@ -1,4 +1,7 @@
-### Hi there 👋
+### nef
+My name is Jordan.
+This is my personal github account. I have used it for school and personal projects primarily.
+I am currently a student at the University of Pittsburgh, I am studying Computer Science and Japanese.
 
 <!--
 **neffers/neffers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
